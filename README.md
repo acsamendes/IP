@@ -1,2 +1,2 @@
 # IP
-atividades de introdução à programação
+atividades de introdução à programação em C
